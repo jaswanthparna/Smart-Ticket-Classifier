@@ -9,7 +9,7 @@ This tool automatically categorizes support tickets (e.g., password issues, logi
 🔐 Password Reset
 🔑 Login Problems
 👥 HR Queries
-❓ Other/Unknown
+❓ Unknown
 
 ✅ Generates AI-based step-by-step responses
 
