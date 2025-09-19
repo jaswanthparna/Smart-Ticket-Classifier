@@ -6,7 +6,6 @@ This tool automatically categorizes support tickets (e.g., password issues, logi
 🚀 Features
 
 ✅ Classifies tickets into:
-
 🔐 Password Reset
 🔑 Login Problems
 👥 HR Queries
