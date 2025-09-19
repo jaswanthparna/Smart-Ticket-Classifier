@@ -16,7 +16,7 @@ with st.sidebar:
     - 🔐 Password Reset
     - 🔑 Login Problems
     - 👥 HR Queries
-    - ❓ Other
+    - ❓ Unknown
     """)
 
 # Input
