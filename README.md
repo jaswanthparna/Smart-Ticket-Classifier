@@ -21,8 +21,8 @@ This tool automatically categorizes support tickets (e.g., password issues, logi
 
 ⚙️ Setup
 1. Clone the repository
-git clone https://github.com/yourusername/Smart_Ticket_Classifier.git
-cd Smart_Ticket_Classifier
+https://github.com/jaswanthparna/Smart-Ticket-Classifier.git
+cd Smart-Ticket-Classifier
 
 2. Create virtual environment
 python -m venv venv
