@@ -50,3 +50,7 @@ Run Frontend (Streamlit):
 streamlit run frontend.py
 
 Local URL: http://localhost:8501
+
+output:
+
+![alt text](<Screenshot 2025-09-19 172834-1.png>)
