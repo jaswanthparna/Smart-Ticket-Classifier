@@ -6,23 +6,14 @@ This tool automatically categorizes support tickets (e.g., password issues, logi
 🚀 Features
 
 ✅ Classifies tickets into:
-
 🔐 Password Reset
-
 🔑 Login Problems
-
 👥 HR Queries
-
 ❓ Other/Unknown
-
 ✅ Generates AI-based step-by-step responses
-
 ✅ REST API with FastAPI
-
 ✅ Web UI with Streamlit
-
 ✅ Environment variable management via .env
-
 
 ⚙️ Setup
 1. Clone the repository
@@ -43,7 +34,7 @@ Create a .env file in the project root:
 GOOGLE_API_KEY=your_google_gemini_api_key_here
 
 ▶️ Running the App
-Run Backend (FastAPI)
+Run Backend (FastAPI):
 uvicorn main:app --reload
 
 
@@ -51,5 +42,7 @@ API available at: http://127.0.0.1:8000
 
 Swagger docs: http://127.0.0.1:8000/docs
 
-Run Frontend (Streamlit)
+Run Frontend (Streamlit):
 streamlit run frontend.py
+
+Local URL: http://localhost:8501
