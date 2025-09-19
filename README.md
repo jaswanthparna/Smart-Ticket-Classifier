@@ -6,13 +6,18 @@ This tool automatically categorizes support tickets (e.g., password issues, logi
 🚀 Features
 
 ✅ Classifies tickets into:
+
 🔐 Password Reset
 🔑 Login Problems
 👥 HR Queries
 ❓ Other/Unknown
+
 ✅ Generates AI-based step-by-step responses
+
 ✅ REST API with FastAPI
+
 ✅ Web UI with Streamlit
+
 ✅ Environment variable management via .env
 
 ⚙️ Setup
